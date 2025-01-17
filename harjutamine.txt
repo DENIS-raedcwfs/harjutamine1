@@ -1,0 +1,3 @@
+tarkvaraarendajad ja programmeerijad – GitHub on neile oluline tööriist, kuna see võimaldab neil hallata oma koodipõhju, teha koostööd teiste arendajatega, teha muudatusi, teha pull-requeste ja jälgida vigu.
+Meeskonnad ja organisatsioonid – GitHub pakub funktsioone meeskonnatööks, kus mitmed arendajad saavad ühes projektis koos töötada, jagada oma tööd, arutada muudatusi ja integreerida neid.
+Avatud lähtekoodiga projektid – GitHub on üks suurimaid avatud lähtekoodiga projektide kogumehi maailmas. Paljud populaarsed avatud lähtekoodiga projektid, nagu näiteks Linuxi tuuma arendamine, elavad GitHubis.
